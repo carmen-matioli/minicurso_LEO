@@ -1,5 +1,8 @@
 # Bom dia, Carmen!! Tem que arrumar isso ai né......
 
+*.xlsx
+*.csv
+*.nc4
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
